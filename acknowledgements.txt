@@ -1,0 +1,5 @@
+I have used ChatGPT
+to create code and to understand how to build and adjust the code 
+according to the math equations and requirements
+given that we are shaping multiple decisions.
+Ex: "What is this question asking in math requirements and how to example it in python"
